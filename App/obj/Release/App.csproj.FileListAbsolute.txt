@@ -1,0 +1,11 @@
+C:\Workarea\PdfReader\App\bin\Release\App.exe.config
+C:\Workarea\PdfReader\App\bin\Release\App.exe.manifest
+C:\Workarea\PdfReader\App\bin\Release\App.application
+C:\Workarea\PdfReader\App\bin\Release\App.exe
+C:\Workarea\PdfReader\App\bin\Release\App.pdb
+C:\Workarea\PdfReader\App\bin\Release\itextsharp.dll
+C:\Workarea\PdfReader\App\bin\Release\itextsharp.xml
+C:\Workarea\PdfReader\App\obj\Release\App.exe.manifest
+C:\Workarea\PdfReader\App\obj\Release\App.application
+C:\Workarea\PdfReader\App\obj\Release\App.exe
+C:\Workarea\PdfReader\App\obj\Release\App.pdb

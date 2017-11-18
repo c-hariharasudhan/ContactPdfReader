@@ -1,0 +1,12 @@
+C:\Workarea\PdfReader\App\bin\Debug\App.exe.config
+C:\Workarea\PdfReader\App\bin\Debug\App.exe
+C:\Workarea\PdfReader\App\bin\Debug\App.pdb
+C:\Workarea\PdfReader\App\bin\Debug\itextsharp.dll
+C:\Workarea\PdfReader\App\bin\Debug\itextsharp.xml
+C:\Workarea\PdfReader\App\obj\Debug\App.csprojResolveAssemblyReference.cache
+C:\Workarea\PdfReader\App\obj\Debug\App.exe
+C:\Workarea\PdfReader\App\obj\Debug\App.pdb
+C:\Workarea\PdfReader\App\bin\Debug\App.exe.manifest
+C:\Workarea\PdfReader\App\bin\Debug\App.application
+C:\Workarea\PdfReader\App\obj\Debug\App.exe.manifest
+C:\Workarea\PdfReader\App\obj\Debug\App.application
